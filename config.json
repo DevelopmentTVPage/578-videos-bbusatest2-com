@@ -1,0 +1,15 @@
+{
+    "title": "BBB USA Test 2",
+    "baseURL": "https:\/\/videos.bbusatest2.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758904",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "bbusatest2.com"
+    }
+}
